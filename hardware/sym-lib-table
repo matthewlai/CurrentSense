@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ina21x)(type Legacy)(uri ${KIPRJMOD}/ina21x.lib)(options "")(descr ""))
+)
