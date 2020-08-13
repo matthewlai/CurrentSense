@@ -1,0 +1,5 @@
+"Comment","Designator","Footprint","LCSC Part #"
+"1uF/50V","C1","R_0603_1608Metric","C15849"
+"0.1uF/50V","C2,C3","R_0603_1608Metric","C14663"
+"0.02R/2W","R1","R_2512_6332Metric","C68608"
+"INA213 (50V/V)","U1,U2","SOT-363_SC-70-6","C129346"
