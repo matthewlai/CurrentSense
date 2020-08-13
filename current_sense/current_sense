@@ -1,0 +1,13 @@
+Reference, Value, Footprint, Datasheet, LCSC
+"J1","Conn_01x02","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal","~"
+"U1","INA213 (50V/V)","Package_TO_SOT_SMD:SOT-363_SC-70-6","","C129346"
+"R1","0.02R/2W","Resistor_SMD:R_2512_6332Metric","~","C68608"
+"J2","Conn_01x02","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal","~"
+"TP1","TestPoint","TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded","~"
+"C2","0.1uF/50V","Resistor_SMD:R_0603_1608Metric","~","C14663"
+"C1","1uF/50V","Resistor_SMD:R_0603_1608Metric","~","C15849"
+"TP2","TestPoint","TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded","~"
+"TP3","TestPoint","TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded","~"
+"U2","INA213 (50V/V)","Package_TO_SOT_SMD:SOT-363_SC-70-6","","C129346"
+"TP4","TestPoint","TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded","~"
+"C3","0.1uF/50V","Resistor_SMD:R_0603_1608Metric","~","C14663"
